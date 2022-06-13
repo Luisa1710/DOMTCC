@@ -7,3 +7,4 @@ if(true) {
 }
 console.log (`Hola ${nombre}`)
 console.log ("Hola" )
+console.log ("Adios")
